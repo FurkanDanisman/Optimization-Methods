@@ -12,3 +12,5 @@ procedure. To illustrate my reasons, one can observe the below plot with its mul
 points, which makes it hard to distinguish the global maximum for each method. With its complex shape,
 it is hoped that each method's weakness will be highlighted more clearly. Also, it resembles a heart signal
 for people like me who have no idea what an actual heart signal looks like.
+
+You may find the shape of the graph and the analysis [here.](https://furkandanisman.github.io/Optimization-Methods/Code/Optimization-Methods.html) 
