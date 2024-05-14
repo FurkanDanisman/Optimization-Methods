@@ -20,4 +20,4 @@ for people like me who have no idea what an actual heart signal looks like.
   <img width="500" height="250" src="https://github.com/FurkanDanisman/Optimization-Methods/raw/main/images/Untitled.png">
 </p>
 
-You may find the shape of the graph and the analysis [here.](https://furkandanisman.github.io/Optimization-Methods/Code/Optimization-Methods.html) 
+You may find the analysis and visualization [here.](https://furkandanisman.github.io/Optimization-Methods/Code/Optimization-Methods.html) 
