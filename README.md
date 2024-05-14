@@ -13,8 +13,8 @@ points, which makes it hard to distinguish the global maximum for each method. W
 it is hoped that each method's weakness will be highlighted more clearly. Also, it resembles a heart signal
 for people like me who have no idea what an actual heart signal looks like.
 
-<p align="center">
-  <img width="500" height="180" src="https://github.com/FurkanDanisman/Optimization-Methods/raw/main/images/Untitled.png">
+<p>
+  <img width="500" height="250" src="https://github.com/FurkanDanisman/Optimization-Methods/raw/main/images/Untitled.png">
 </p>
 
 You may find the shape of the graph and the analysis [here.](https://furkandanisman.github.io/Optimization-Methods/Code/Optimization-Methods.html) 
